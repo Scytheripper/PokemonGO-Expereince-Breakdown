@@ -1,0 +1,28 @@
+{
+  "catch": {
+    "catch": 100,
+    "curveball": 10,
+    "niceThrow": 10,
+    "greatThrow": 50,
+    "excellentThrow": 100
+  },
+
+  "event": {
+    "twoKEgg": 100,
+    "fiveKEgg": 500,
+    "tenKEgg": 1000,
+    "evolve": 500,
+    "firstCatch": 500,
+    "firstSpin": 500,
+    "pokestopWeekBonus": 2500,
+    "pokmonCatchWeekBonus": 2500
+  },
+
+  "raids": {
+    "tierOne": 3000,
+    "tierTwo": 3500,
+    "tierThree": 4000,
+    "tierFour": 5000,
+    "tierFive": 10000
+  }
+}
